@@ -91,6 +91,9 @@
   }
 }
 
+.link{
+  text-decoration: underline;
+}
 
 body {
   margin: 0;
